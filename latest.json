@@ -1,0 +1,11 @@
+{
+    "version":  "0.1.7",
+    "notes":  "Windows taskbar now shows the new OpenChat logo.",
+    "pub_date":  "2026-11-08T09:31:26Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUejZlTVVhY1hWaXRTUFBvTmR1TFM1WnhMbmozZUx5eU5GNDR4cExTMkZwTHBBWitxc3BybDMwUlg5b2ZYcUNXMVczbWJLeHhXV1BxUmQ2VitkWkRiaXNPK2NHdHJrS2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTI5MjI1CWZpbGU6T3BlbkNoYXRfMC4xLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS43CkxscWI5a3Bxb3VZRzJZa21JN0c3NXpaaWFkaUpTd1lyVEF1YlZoYUUrVjNpQ2Z1RlMyZFRNVnNEbEt2dnE4NDV5M1NkcmlLVHRZTXRlMkltV0Y1ZERBPT0K",
+                                             "url":  "https://api.github.com/repos/alpertungax1/openchat-releases/releases/assets/723497521"
+                                         }
+                  }
+}
