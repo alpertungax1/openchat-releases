@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.7",
-    "notes":  "Windows taskbar now shows the new OpenChat logo.",
-    "pub_date":  "2026-11-08T09:31:26Z",
+    "version":  "0.1.8",
+    "notes":  "Updates keep working when GitHub\u0027s release download links time out (fallback update feed).",
+    "pub_date":  "2026-11-08T09:37:44Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUejZlTVVhY1hWaXRTUFBvTmR1TFM1WnhMbmozZUx5eU5GNDR4cExTMkZwTHBBWitxc3BybDMwUlg5b2ZYcUNXMVczbWJLeHhXV1BxUmQ2VitkWkRiaXNPK2NHdHJrS2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTI5MjI1CWZpbGU6T3BlbkNoYXRfMC4xLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS43CkxscWI5a3Bxb3VZRzJZa21JN0c3NXpaaWFkaUpTd1lyVEF1YlZoYUUrVjNpQ2Z1RlMyZFRNVnNEbEt2dnE4NDV5M1NkcmlLVHRZTXRlMkltV0Y1ZERBPT0K",
-                                             "url":  "https://api.github.com/repos/alpertungax1/openchat-releases/releases/assets/723497521"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUejZlTVVhY1hWaWp1UFpUaWc0UktaaElpeXRJRGF6cWJmLzlUQWU0b2FRc0ZmSnVpZmhtK0FIYTI4Z202aU0wcHhQYWREdFZuT0ZkbUhFOStMaVJLcWFjM3h6KzZHZkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTMwNjQxCWZpbGU6T3BlbkNoYXRfMC4xLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44CmxmWGVLc0NwbTFPME1BRHpEUkFWN3FpUDdmQVY5ZEpvcnlDTDBoeW5paWthVDBNbHA5dHJPVDM5UjFCODRNS2YxYVpvcXowQ2ZOdlUzSi9DcnBjOUFnPT0K",
+                                             "url":  "https://api.github.com/repos/alpertungax1/openchat-releases/releases/assets/723507857"
                                          }
                   }
 }
