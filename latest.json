@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.8",
-    "notes":  "Updates keep working when GitHub\u0027s release download links time out (fallback update feed).",
-    "pub_date":  "2026-11-08T09:37:44Z",
+    "version":  "0.1.9",
+    "notes":  "Discord, Telegram, X and YouTube no longer show an address bar. With TWP, Discord, X and YouTube are translated as soon as they open, without the Translate prompt.",
+    "pub_date":  "2026-11-08T14:36:07Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUejZlTVVhY1hWaWp1UFpUaWc0UktaaElpeXRJRGF6cWJmLzlUQWU0b2FRc0ZmSnVpZmhtK0FIYTI4Z202aU0wcHhQYWREdFZuT0ZkbUhFOStMaVJLcWFjM3h6KzZHZkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTMwNjQxCWZpbGU6T3BlbkNoYXRfMC4xLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44CmxmWGVLc0NwbTFPME1BRHpEUkFWN3FpUDdmQVY5ZEpvcnlDTDBoeW5paWthVDBNbHA5dHJPVDM5UjFCODRNS2YxYVpvcXowQ2ZOdlUzSi9DcnBjOUFnPT0K",
-                                             "url":  "https://api.github.com/repos/alpertungax1/openchat-releases/releases/assets/723507857"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUejZlTVVhY1hWaXZZdVFsdVBlRGI2YjJkdkxtNllHamttd1A0S0ZyWFJoQ0RYK1h6azRvb00zNTVQTEFNakJnZnZYTC9kV3dsUlFaR0Y4VU9SWWNaS0NJNDI0UGhIZXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQ4MTQ5CWZpbGU6T3BlbkNoYXRfMC4xLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45CkhDNGlaK0M1aGFnOVJxendzL1NidDFROFlnSjJ5VFlOeDVtakpVZ0JnUFlaQks4K3VhRkZNMitHcTVpdmIzc001dGdGWmlTRXEyOHhWeW9YYXpwM0R3PT0K",
+                                             "url":  "https://api.github.com/repos/alpertungax1/openchat-releases/releases/assets/724201482"
                                          }
                   }
 }
